@@ -1,7 +1,3 @@
-Here's a README file for your project that you can upload to GitHub:
-
----
-
 # Netflix Titles Dataset Analysis
 
 ## About the Dataset
